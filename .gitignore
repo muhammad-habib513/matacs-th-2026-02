@@ -1,0 +1,17 @@
+# Assessment brief must never be published
+MATACS-TH-2026-02_Candidate_Brief.pdf
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
